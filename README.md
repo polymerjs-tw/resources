@@ -1,6 +1,6 @@
 Polymer 資源列表
 ===============
 
-## Element 分享平台
+所有內容放置 Wiki 頁面，歡迎自行加入各種資源連結！
 
-* [customelements.io](http://customelements.io/) - [許益祥](https://www.facebook.com/marty.shu?hc_location=stream)
+[Wiki](https://github.com/polymerjs-tw/resources/wiki)
